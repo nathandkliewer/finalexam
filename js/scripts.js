@@ -1,3 +1,4 @@
- var fruits = ['Apple', 'Banana'];
 
-console.log(fruits.length);
+                        var favArtists = ['ke$ha', 'Drake', 'Bush', 'Beck'];
+                        alert(favArtists[0]);
+                    
